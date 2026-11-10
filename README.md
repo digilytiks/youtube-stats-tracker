@@ -37,7 +37,7 @@ Before running the script, ensure your Google Sheet contains two sheets configur
 ### 1. Add Script to Google Sheets
 1. Open your Google Sheet.
 2. Navigate to **Extensions > Apps Script**.
-3. Replace any default code in `Code.gs` with the code provided in `Code.gs` in this repository.
+3. Replace any default code in `Code.gs` with the code provided in `youtube_stats_tracker.js` in this repository.
 4. Click **Save** 💾.
 
 ### 2. Enable YouTube Data API Service in Apps Script
